@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model weights (uncomment if files are too large)
+# *.pth
+# *.pt
+# *.h5
+# *.ckpt
+
+# Figures/outputs (optional - uncomment if you don't want to track generated figures)
+# figures/*.png
+# figures/*.jpg
+
